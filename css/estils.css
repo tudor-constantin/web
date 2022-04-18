@@ -409,6 +409,12 @@ button:focus:not(:focus-visible) {
   transform: scale(1.05);
 }
 
+.titol {
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 0px 3px 3px rgb(62 62 62);
+}
+
 .work-text-info {
   background: var(--section-bg-color);
   border-radius: .3rem;
